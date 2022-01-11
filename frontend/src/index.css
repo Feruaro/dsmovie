@@ -1,1 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
+:root {
+  --color-primary: #f67828;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body {
+    background-color: antiquewhite;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: unset;
+}
