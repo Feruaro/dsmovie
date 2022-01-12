@@ -23,6 +23,7 @@ public class MovieService {
 		return page.map(x -> new MovieDTO(x));
 	}
 	
+	@Transactional(readOnly = true)
 	public MovieDTO findById(Long id) {	
 		return new MovieDTO(repo.findById(id).orElseThrow(() -> new ObjectNotFoundException("Movie", id)));		
 	}
