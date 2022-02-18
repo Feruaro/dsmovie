@@ -9,7 +9,7 @@
 
 <br>
 
-<img href="https://github.com/Feruaro/dsmovie/blob/main/img-github/1.jpg">
+<img src="https://github.com/Feruaro/dsmovie/blob/main/img-github/1.jpg">
 
 <br>
 
@@ -33,7 +33,7 @@
 
 ### ✔ Certificado:
 -----
-<img href="https://github.com/Feruaro/dsmovie/blob/main/certificado/certificado-semana-spring-react.jpg">
+<img src="https://github.com/Feruaro/dsmovie/blob/main/certificado/certificado-semana-spring-react.jpg">
 
 
 
