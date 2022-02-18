@@ -26,10 +26,9 @@
 
 <br>
 
-
 ### ⚙ Funcionalidades:
 -----
-* Página Home - Lista de filmes:
+* **Página Home - Lista de filmes:**
 
 <img src="https://github.com/Feruaro/dsmovie/blob/main/img-github/2.jpg">
 
@@ -39,7 +38,7 @@
 
 <br>
 
-* Página de cadastro - Avaliando um filme:
+* **Página de cadastro - Avaliando um filme:**
   * Informar e-mail válido;
   * Informar a nota entre 1 a 5;
 
